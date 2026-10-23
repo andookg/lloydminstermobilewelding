@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /thanks.html
+Sitemap: https://andookg.github.io/lloydminstermobilewelding/sitemap.xml
